@@ -31,7 +31,7 @@ This is a simple web application that demonstrates visual cryptography. The appl
 
 1. Click on the "Login" link to go to the login page.
 2. Enter your registered name and the password provided during registration (share2 string).
-3. If the shares match, the original image will be displayed.
+3. If the shares matched the user gains access into system 
 
 ## Security Note
 
@@ -42,13 +42,8 @@ For a real-world application, use secure password hashing algorithms and additio
 ## Acknowledgments
 
 - This project was inspired by visual cryptography concepts.
-- Thanks to [OpenAI](https://openai.com) for providing the GPT-3 language model.
+
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can save this content in a file named `README.md` in the root directory of your project.
-
-Please feel free to modify the content of the README file to suit your project's specific details and requirements. The README serves as documentation and guidance for users and developers who interact with your project.-
+```greg
